@@ -19,10 +19,10 @@ This is a C++ project for order execution and management to trade on OKX. It wil
 4. websocketpp
 
 ### - Installation procedure:
-1. Clone repo : 
+1. Clone repo 
 2. Install dependencies :
-- If vcpkg is installed then go to the main directory of vcpkg Installation (for eg - D:\C++Libs\vcpkg), open cmd and enter commands: `vcpkg install openssl nlohmann-json curl websocketpp`
-- If vcpkg is not installed then follow the link to install the vcpkg and repeat above steps: https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-cmd
+- If vcpkg is installed then go to the main directory of vcpkg installation (for eg - D:\C++Libs\vcpkg), open cmd and enter commands: `vcpkg install openssl nlohmann-json curl websocketpp`
+- If vcpkg is not installed then follow the link to install the vcpkg and repeat above step: https://learn.microsoft.com/en-us/vcpkg/get_started/get-started?pivots=shell-cmd
 3. Create '.env' with structure:
 - `CLIENT_ID = user api key`
 - `CLIENT_SECRET = user secret key`
