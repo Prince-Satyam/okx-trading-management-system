@@ -31,3 +31,6 @@ This is a C++ project for order execution and management to trade on OKX. It wil
 5. Build the project
 6. Run the project
 7. Comment out the functions which you do not want to execute as per the description in the cpp files
+
+### - Video description link:
+https://drive.google.com/file/d/1GTZ96Wz8JapJCp7GMrrXYguYkCNjMEcG/view?usp=sharing
